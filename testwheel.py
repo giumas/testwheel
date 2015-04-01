@@ -1,6 +1,6 @@
 from __future__ import absolute_import, division, print_function
 
-__version__ = '0.0.1-dev'
+__version__ = '0.0.0'
 __author__ = 'giumas'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015 giumas'
