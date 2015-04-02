@@ -2,9 +2,14 @@ testwheel: testing wheel
 ==========================
 
 .. image:: https://secure.travis-ci.org/giumas/testwheel.png
-        :target: https://secure.travis-ci.org/giumas/testwheel
+    :target: https://secure.travis-ci.org/giumas/testwheel
 
 
+.. image:: https://coveralls.io/repos/giumas/testwheel/badge.svg
+    :target: https://coveralls.io/r/giumas/testwheel
+
+
+        
 *testwheel* is an MIT_-licensed dummy Python module for testing wheel.
 
 
